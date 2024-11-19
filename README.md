@@ -1,6 +1,17 @@
 # 🐳 docker-practices  
 *Playing with Docker like a pro... or at least trying to.*  
 
+```bash
+                                   ##         .
+                             ## ## ##        ==
+                          ## ## ## ## ##    ===
+                       /""""""""""""""""\___/ ===
+                  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
+                       \______ o          _,/
+                        \      \       _,'
+                         `'--.._\..--''
+```
+
 ---
 
 ## 🚀 About This Project  
